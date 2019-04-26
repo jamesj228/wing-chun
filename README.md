@@ -1,2 +1,2 @@
 # wing-chun
-Site describing Wing Chun, a Martial Arts.
+Site describing Wing Chun, amMartial arts.
